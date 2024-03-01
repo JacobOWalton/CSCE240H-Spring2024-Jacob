@@ -1,11 +1,11 @@
-These are the instructions to run my code. The folder that needs to be ran is the prog3-ui folder that is in the src folder (CSCE240H-Spring2024-Jacob/prog3-ui/src/Project3). Once that code is ran the user will be prompted to choose a company, enter either "The Coca Cola Company" or "PepsiCo" depending on what company you want to look at. Start of with PepsiCo by entering "PepsiCo". This will then prompt the user to enter a command prompt. Below is a list of command prompts to try out, they will all be marked with "*****" in front of them so you can ctrl+f (or whatever likewise function to search the file) to easily find each prompt.
+These are the instructions to run my code. The folder that needs to be ran is the prog3-ui folder that is in the src folder (CSCE240H-Spring2024-Jacob/prog3-ui/src/prog3-ui). Once that code is ran the user will be prompted to choose a company, enter either "The Coca Cola Company" or "PepsiCo" depending on what company you want to look at. Start of with PepsiCo by entering "PepsiCo". This will then prompt the user to enter a command prompt. Below is a list of command prompts to try out, they will all be marked with "*****" in front of them so you can ctrl+f (or whatever likewise function to search the file) to easily find each prompt.
 
 My current scope is for the user to be able to enter prompts, switch between the company it is asking about, be able to enter incorrect prompts without ending the program, and be able to end the program on command. I currently do not have it within my scope for the user to be able to enter anything they want, they have to enter in the pre-approved prompts (as listed below) to get any information about the companies' 10-K Reports.
 I did not make very many changes to the fundamentals of how my program functions from a user standpoint, so the prompts here are the same as they were last week, with the exception of prompts 9 and 10. I will keep all the previous prompts in here in case you wish to test them out again, but if you wish to skip to the prompts that affect the UI then you can skip to "*****The Sixth command prompt", if you would like to get the full user experience you can enter all prompts in order as normal.
 
 (*NOTE*: Please copy and paste as everything is case sensitive at the moment)
 
-
+(*NOTE 2*: Make sure to be looking at the output file in the SRC folder, the one in the general prog3-ui folder is for my use when using Eclipse IDE)
 
 *****The first command prompt to try out is:
 
