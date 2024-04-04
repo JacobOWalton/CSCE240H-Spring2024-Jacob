@@ -1,6 +1,6 @@
 These are the instructions to run my code. The folder that needs to be ran is the prog5-sessionlogger folder that is in the src folder (CSCE240H-Spring2024-Jacob/prog5-sessionlogger/src/prog5-sessionlogger). Below is a list of command prompts to use for this program, they will all be marked with "*****" in front of them so you can ctrl+f (or whatever likewise function to search the file) to easily find each prompt.
 
-My current scope is for the user enter one of the pre-approved inputs, and get an output accordingly (as per the basis of the arguments in the instructions)
+My current scope is for the user enter one of the pre-approved inputs, and get an output accordingly (as per the basis of the arguments in the instructions). The only difference is I put chat_statistics.csv in the chat_sessions folder in the program as it worked a lot smoother that way.
 
 
 (*NOTE*: Make sure to be looking at the output file in the SRC folder, the one in the general prog5-sessionlogger folder is for my use when using Eclipse IDE. This idea goes for any file you find multiple of, its because the location of files is different depending on whether I use IDE or the terminal, so I keep both so I can easily edit the program if need be)
