@@ -1,0 +1,8 @@
+Hello and welcome to this chatbot, what would you like to know?
+It seems you want to check the reports of this program. The program is required to start with a company chosen however, so it will be defaulting to PepsiCo. This should not impact your experience with this program, just be aware that until specified, this program will default to PepsiCo as the desired company.
+summary
+Loading... Please do not check output file until notified.
+There are 3 chats to date with the user asking 9 times and system responded 12 times. Total duration is 138 seconds.
+quit
+Loading... Please do not check output file until notified.
+Ending program.

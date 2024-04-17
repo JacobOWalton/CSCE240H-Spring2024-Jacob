@@ -1,0 +1,14 @@
+
+Hello and welcome to this chatbot, what would you like to know?
+-summary
+Loading... Please do not check output file until notified.
+There are 3 chats to date with the user asking 9 times and system responded 12 times. Total duration is 138 seconds.
+showchat 4
+Loading... Please do not check output file until notified.
+ERROR: There are only 3 chat sessions. Please choose a valid number.
+showchat 3
+Loading... Please do not check output file until notified.
+Chat 3's chat is big, so I put it in the output text file. You can check it for the chat.
+quit
+Loading... Please do not check output file until notified.
+Ending program.
